@@ -1,13 +1,14 @@
 package com.khalilifar;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+
+        ApplicationContext
+        Alien obj = new Alien();
+        obj.code();
+
     }
 }
